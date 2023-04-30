@@ -1,0 +1,1476 @@
+
+@media (min-width: 1500px) and (max-width: 1600px) {
+.header-area {
+    padding-left: 30px;
+    padding-right: 33px;
+}
+.header-menu ul li a {
+    margin: 37px 2px;
+}
+.header-menu .sub-menu ul li a {
+    margin: 9px 35px!important;
+}
+.header-area .header-menu ul li a {
+    margin: 49px 29px;
+}
+.header-area .header-src-btn {
+    right: 243px;
+}
+.header-area.style-four {
+    padding-left: 14px;
+    padding-right: 36px;
+}
+.header-area.style-four .header-menu ul li a {
+    margin: 44px 31px;
+}
+.testimonial-content-text p {
+    line-height: 1.2;
+}
+.call-do-action-area.style-three .call-do-action-btn {
+    left: 75px;
+}
+.header-area.style-four .header-src-btn {
+    right: 233px;
+}
+.testimonial-area.style-three .row.margin-upper {
+    padding: 102px 8px 122px 66px;
+}
+.call-do-action-title h1 {
+    font-size: 43px;
+}
+.call-do-action-area.style-three .row.margin-topper {
+    padding: 92px 0px 80px 70px;
+}
+.header-area.style-five .header-menu ul li a {
+    padding-left: 14px;
+}
+.header-contact a {
+    padding: 18px 22px;
+}
+.wrapper {
+    z-index: 22;
+    bottom: 85px;
+}
+.quote_btn {
+    margin-top: 0;
+}
+.service-area .dreamit-section-main-title h2 {
+    font-size: 38px;
+}
+.header-area .sub-menu ul li:before {
+    width: 12%;
+}
+.banner-content h1 {
+    font-size: 42px;
+}
+.service_list .owl-prev {
+    left: -72px;
+}
+.dreamit-section-main-title h2,g1396
+.dreamit-section-main-title h2
+{
+    font-size: 41px;
+}
+
+}
+@media (min-width: 1365px) and (max-width: 1500px) {
+.header-menu ul li a {
+    margin: 31px 0px;
+    padding-right: 33px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    padding: 20px 28px;
+}
+.case_list .owl-prev {
+    left: 45%;
+}
+.feature-content {
+    padding: 0 12px;
+}
+.testimonial-thumb {
+    margin-right: 7px;
+}
+.inteltgency-servive-area .dreamit-section-main-title h2 {
+    font-size: 38px;
+}
+.intelegency-content {
+    overflow: hidden;
+}
+.call-do-action-title h1 {
+    font-size: 36px;
+}
+.testimonial-content-text p {
+    line-height: 1.1;
+}
+.header-src-btn {
+    margin-top: -16px;
+    right: 243px;
+}
+.header-contact a {
+    padding: 18px 27px;
+}
+.header-contact {
+    right: 0;
+}
+.header-menu .sub-menu {
+    padding: 4px 2px 23px;
+}
+.header-area .header-menu ul li a {
+    margin: 49px 17px;
+}
+.header-area .header-src-btn {
+    right: 278px;
+    top: 46px;
+}
+.header-menu ul li {
+ padding-bottom:10px;
+}
+ .header-menu .sub-menu ul li a {
+    margin: 20px 35px!important;
+}
+.header-area .sub-menu ul li:before {
+    top: 38px;
+    width: 12%;
+}
+.banner-area {
+    padding: 0 55px;
+}
+.banner-content h1 {
+    font-size: 55px;
+}
+.service-area .dreamit-section-main-title h2 {
+    font-size: 35px;
+}
+.service-area {
+    padding: 159px 31px 162px 27px;
+}
+.subscribe-area button {
+    top: -33px;
+    left: 164px;
+}
+.ailata-footer-area input.subscribe-mail-box {
+    width: 89%;
+}
+.wrapper {
+    z-index: 22;
+    bottom: 85px;
+}
+.feature-content-text p {
+    width: 80%;
+}
+.about-content-text p {
+    width: 97%;
+}
+
+}
+@media (min-width: 1365px) and (max-width: 1400px) {
+    .banner-content h1 {
+    font-size: 51px;
+}
+    .header-contact {
+    right: -37px;
+}
+}
+/* Normal Laptop :1024px. */
+@media (min-width: 1024px) and (max-width: 1199px) {
+.header-menu ul li a {
+    margin: 41px 5px;
+    padding-right: 7px;
+}
+.header-area .header-menu ul li a {
+    margin: 49px 16px;
+}
+.banner-area {
+    padding: 0 51px;
+}
+.banner-content h1 {
+    font-size: 36px;
+}
+.header-menu .sub-menu ul li a {
+    margin: 9px 35px;
+}
+.service-area {
+    padding: 159px 12px 162px 9px;
+}
+.service-area .dreamit-section-main-title h2 {
+    font-size: 26px;
+}
+.dreamit-section-main-title h3 {
+    font-size: 42px;
+}
+.owl-nav {
+    display: none;
+}
+.testimonial-content-text p {
+    font-size: 19px;
+}
+.resent-post-title a h2 {
+    font-size: 15px;
+}
+.feature-content {
+    padding: 0 12px;
+}
+.dreamit-section-main-title h2 {
+    font-size: 44px;
+}
+.testimonial-content-text p {
+    width: 100%;
+}
+.testimonial_list .owl-prev{
+    right: 208px;
+    top: -37px;
+}
+.testimonial_list .owl-next{
+    right: 146px;
+    top: -37px;
+}
+ul#pills-tab {
+    margin-left: 0px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    padding: 19px 14px;
+}
+.dreamit-section-main-title h2 {
+    font-size: 38px;
+}
+.single-counte {
+    padding: 50px 2px 52px;
+}
+.call-do-action-title h1 {
+    font-size: 40px;
+}
+.row.margin-upper {
+    padding: 35px 0 13px;
+}
+.faq-thumb img {
+    width: 100%;
+}
+.blog-area .dreamit-section-main-title h2 {
+    font-size: 36px;
+}
+.blog-thumb {
+    margin-right: 18px;
+}
+.testimonial-content-text p {
+    line-height: 1.0;
+}
+.call-do-action-title h1 {
+    font-size: 26px;
+}
+img.rotate {
+    left: -48px;
+    top: -48px;
+}
+.subscribe-area button {
+    top: -30px;
+    right: -128px;
+}
+.header-contact {
+    right: -24px;
+}
+.header-top-area {
+    padding: 14px 42px;
+}
+.header-area {
+    padding-left: 2px;
+    padding-right: 25px;
+}
+.header-src-btn {
+    display: none;
+}
+.header-contact a {
+    padding: 13px 8px;
+}
+.feature-single-box {
+    padding: 45px 7px 0;
+}
+.box-title h3 {
+    font-size: 17px;
+}
+.owl-nav {
+    display: none;
+}
+.grid-title h2 a {
+    font-size: 19px;
+}
+.blog-details-title h2 a {
+    font-size: 39px;
+}
+.wrapper {
+    bottom: 17px;
+    z-index: 22;
+}
+.wrapper .form-control {
+    padding: 1px 0px!important;
+}
+textarea#message {
+    height: 50px;
+}
+.quote_btn {
+    margin-top: 0px;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+.header-area {
+    padding-left: 1px;
+    padding-right: 31px;
+}
+.header-area .header-menu ul li a {
+    margin: 49px 11px;
+}
+.header-menu .sub-menu ul li a {
+    margin: 9px 35px;
+}
+.banner-area {
+    padding: 0 30px;
+}
+.banner-content h1 {
+    font-size: 37px;
+}
+.service-area {
+    padding: 159px 30px 162px 27px;
+}
+.service-area .dreamit-section-title {
+    margin-left: 0;
+}
+.service-area .dreamit-section-main-title h2 {
+    font-size: 27px;
+}
+img.rotate {
+    left: -47px;
+    top: -44px;
+}
+.blog-title h2 a {
+    font-size: 17px;
+}
+.header-contact a {
+    padding: 18px 26px;
+}
+.header-src-btn {
+    display: none;
+}
+.header-menu ul li a {
+    margin: 35px 7px;
+    padding-right: 0px;
+}
+.feature-content {
+    padding: 0 0px;
+}
+.dreamit-section-main-title h2 {
+    font-size: 38px;
+}
+.about-area .dreamit-section-main-title h3 {
+    font-size: 42px;
+}
+.testimonial-content-text p {
+    font-size: 20px;
+}
+ul#pills-tab {
+    margin-left: 0px;
+}
+.nav-pills .nav-link {
+    padding: 20px 24px;
+}
+.single-counte {
+    padding: 50px 2px 52px;
+}
+.call-do-action-title h1 {
+    font-size: 41px;
+}
+.faq-thumb img {
+    width: 100%;
+}
+.blog-area .dreamit-section-main-title h2 {
+    font-size: 35px;
+}
+.blog-thumb {
+    margin-right: 19px;
+}
+.banner-content p {
+    font-size: 16px;
+}
+.faq-single-box {
+    padding-left: 37px;
+}
+.header-src-btn {
+    display: none;
+}
+.owl-nav {
+    display: none;
+}
+.subscribe-area button {
+    top: -35px;
+    right: -132px;
+}
+.header-top-area {
+    padding: 14px 0px;
+}
+.header-top-address ul li {
+    margin-right: 7px;
+}
+.top-right-social-address ul li a {
+    margin-left: 9px;
+}
+.feature-single-box {
+    padding: 45px 2px 0;
+}
+.box-title h3 {
+    font-size: 18px;
+}
+.back-title h2 {
+    font-size: 16px;
+    margin: 0 0 8px;
+}
+.grid-title h2 a {
+    font-size: 19px;
+}
+.blog-details-title h2 a {
+    font-size: 39px;
+}
+.wrapper {
+    bottom: 24px;
+    z-index: 22;
+}
+textarea#message {
+    height: 50px;
+}
+.quote_btn {
+    margin-top: 0;
+}
+.resent-post-title a h2 {
+    font-size: 15px;
+}
+.ailata-footer-content-text p {
+    width: 91%;
+}
+
+}
+/* Tablet Tab :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-logo{
+    display: none !important;
+}
+.logo-txt::before {
+  display: block !important;
+}
+.menu-toggle {
+  display: block !important;
+}
+.header-area {
+    background: #5FC2C7!important;
+    padding: 30px !important;
+}
+.menu-wrapper {
+    position: absolute;
+    top: 60px;
+    background: #fff !important;
+    left: -100%;
+    padding-bottom: 20px;
+    height: auto;
+    width: 350px;
+    transition: .5s;
+    z-index: 99;
+}
+.header-menu ul li span{
+    display: none;
+}
+.header-menu ul li .mobile-menu-icon {
+    display:block !important;
+}
+.active-nav {
+    left:0 !important;
+}
+.menu-toggle {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+.header-button {
+    display: none !important;
+}
+.header-menu ul li a {
+    color: #232323 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 18px 0 18px 25px;
+}
+.header-menu ul li {
+    border-bottom: 1px solid #ccc;
+    width: 96%;
+}
+.header-menu ul li:last-Child{
+    border:none;
+}
+.header-menu ul {
+    text-align: left;
+    display: block !important;
+}
+.header-menu ul li {
+    display: block !important;
+    padding-bottom: 0 !important;
+}
+.mobile-menu-icon {
+    color: #6d6d6d;
+    right: 0;
+    float: right;
+    margin-right: 30px;
+    display: block !important;
+    transition: .3s;
+}
+.header-menu ul li:hover .mobile-menu-icon {
+	color: #279e64;
+}
+.header-menu .sub-menu {
+    position: absolute;
+    width: 270px;
+    left: 362px;
+    padding-bottom: 10px;
+}
+.header-menu ul li:hover .sub-menu {
+    top: 0 ;
+    left: 362px ;
+}
+.header-area.sticky-nav{
+ position:relative !important; 
+ }
+.header-menu .sub-menu ul{
+    width:250px;
+}
+.header-area .sub-menu ul li{
+    border-bottom: 1px solid #d6d6d6;
+    margin-bottom: 0 !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:last-Child{
+     border-bottom: none;
+}
+.header-area .sub-menu ul li a {
+    margin: 0 !important;
+    padding: 18px 30px !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li a::before {
+    left: 5px !important;
+    top: 30px !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:hover{
+   margin-left: 10px;
+}
+.header-top-menu {
+	display: none!important;
+}
+.sticky-nav .header-menu ul li a:hover {
+	color: #279e64!important;
+}
+.header-src-btn {
+    display: none;
+}
+.dreamit-section-main-title h2 {
+    font-size: 33px;
+}
+.process-content-text p {
+    line-height: 1.3;
+    width: 99%;
+}
+.dreamit-section-content-text p {
+    line-height: 1.4;
+    width: 100%;
+    margin-bottom: 13px;
+}
+img.rotate {
+    left: -36px;
+    width: 100%;
+    top: -32px;
+}
+.about-img.shap3 {
+    right: -44%;
+    bottom: 18%;
+}
+.about-img.shap4 {
+    right: -9%;
+    bottom: -34%;
+}
+.about-img.shap10 {
+    top: 44%;
+    left: 77%;
+}
+.about-img.shap2 {
+    top: -52px;
+    right: -17px;
+}
+.owl-prev {
+    position: absolute;
+    right: 153px;
+    top: -666px;
+}
+.owl-next{
+    position: absolute;
+    right: 92px;
+    top: -666px;
+}
+.testimonial-content-text p {
+    font-size: 18px;
+    width: 100%;
+}
+.service-area .dreamit-section-title {
+    margin-left: 0;
+}
+.service-area {
+    padding: 92px 13px 64px 8px;
+}
+.testimonial-area .dreamit-section-main-title h1 {
+    font-size: 83px;
+    top: 0;
+}
+.testimonial-area.pt-170 {
+    padding-top: 42px;
+}
+.about-area.style-two.pb-130 {
+    padding-bottom: 40px;
+}
+.banner-area {
+    padding: 0 8px;
+}
+.banner-content h1 {
+    font-size: 37px;
+}
+.counter-area.pt-110 {
+    padding-top: 28px;
+}
+ul#pills-tab {
+    margin-left: 0px;
+}
+.nav-pills .nav-link {
+    padding: 20px 7px;
+    margin-right: 5px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    padding: 20px 14px;
+    margin-bottom: 3px;
+}
+.case-study-area .dreamit-section-main-title h2 {
+    font-size: 27px;
+}
+.case_list .owl-prev {
+    left: 41%;
+}
+.blog-area .dreamit-section-main-title h2 {
+    font-size: 28px;
+}
+.blog-single-box {
+    margin-bottom: 60px;
+}
+.blog-content {
+    margin-left: 7px;
+    margin-top: 4px;
+}
+.blog-title h2 a {
+    font-size: 17px;
+}
+.blog-meta a {
+    margin-right: 1px;
+    font-size: 14px;
+}
+.blog-meta span {
+    font-size: 14px;
+}
+.call-do-action-title h1 {
+    font-size: 29px;
+}
+.call-do-action-btn a {
+    padding: 13px 11px;
+}
+.footer-social-address ul li {
+    margin-left: 10px;
+}
+.social-address {
+    top: 44px;
+}
+.banner-thumb img {
+    width: 100%;
+}
+.header-src-btn {
+    display: none;
+}
+.header-icon {
+    display: none;
+}
+.about-button a {
+    padding: 15px 25px;
+}
+.service-area .dreamit-section-main-title h2 {
+    font-size: 29px;
+}
+.ailata-about-area .dreamit-section-main-title h2 {
+    font-size: 26px;
+}
+.testimonial-thumb {
+    margin-right: 30px;
+}
+.owl-nav {
+    display: none;
+}
+.faq-thumb img {
+    width: 100%;
+}
+.blog-thumb {
+    margin-right: 18px;
+}
+.blog-title h2 a {
+    line-height: 1.1;
+}
+.row.margin-upper {
+    padding: 74px 0 50px;
+}
+.header-menu ul li a:hover:before {
+    opacity: 0;
+}
+.faq-single-box {
+    padding-left: 27px;
+    padding-bottom: 133px;
+}
+.header-top-area {
+    display: none;
+}
+.header-contact {
+    display: none;
+}
+.case-study-area {
+    padding: 0 0px;
+}
+.blog-thumb {
+    float: inherit;
+    margin-bottom: 6px;
+}
+.brand-area.style-two {
+    padding: 83px 27px;
+}
+.grid-title h2 a {
+    font-size: 20px;
+}
+.blog-details-title h2 a {
+    font-size: 25px;
+}
+.about-area .dreamit-section-main-title h3 {
+    font-size: 33px;
+}
+.about-area .dreamit-section-content-text p {
+    line-height: 1.7;
+    font-size: 13px;
+}
+.about-content-text p {
+    font-size: 12px;
+    width: 99%;
+}
+.about-thumb {
+    left: -31px;
+    top: 42px;
+}
+.wrapper {
+    z-index: 22;
+    bottom: 68px;
+}
+.blog-details-content {
+    padding: 37px 2px 0 0;
+}
+.about-area.style-two .dreamit-section-main-title h2 {
+    font-size: 37px;
+}
+.about-area.style-two.pt-80 {
+    padding-top: 43px;
+}
+
+}
+
+/* Large Mobile :767px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.header-logo{
+    display: none !important;
+}
+.logo-txt::before {
+  display: block !important;
+}
+.menu-toggle {
+  display: block !important;
+}
+.header-area {
+    background: #5FC2C7!important;
+    padding: 30px !important;
+}
+.menu-wrapper {
+    position: absolute;
+    top: 60px;
+    background: #fff !important;
+    left: -100%;
+    padding-bottom: 20px;
+    height:auto;
+    width: 350px;
+    transition: .5s;
+    z-index: 99;
+}
+.header-menu ul li span{
+    display: none;
+}
+.header-menu ul li .mobile-menu-icon {
+    display:block !important;
+}
+.active-nav {
+    left:0 !important;
+}
+.menu-toggle {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+.header-button {
+    display: none !important;
+}
+.header-menu ul li a {
+    color: #232323 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 18px 0 18px 25px;
+}
+.header-menu ul li {
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+}
+.header-menu ul li:last-Child{
+    border:none;
+}
+.header-menu ul {
+    text-align: left;
+    display: block !important;
+}
+.header-menu ul li {
+    display: block !important;
+    padding-bottom: 0 !important;
+}
+.mobile-menu-icon {
+    color: #6d6d6d;
+    right: 0;
+    float: right;
+    margin-right: 30px;
+    display: block !important;
+    transition: .3s;
+}
+.header-menu ul li:hover .mobile-menu-icon {
+    color: #03396b;
+}
+.header-menu .sub-menu {
+    position: absolute;
+    width: 270px !important;
+    left: 362px !important;
+    padding-bottom: 11px;
+}
+.header-menu ul li:hover .sub-menu {
+    top: 0 !important;
+    left: 362px !important;
+}
+.header-area.sticky-nav{
+ position:relative !important; 
+ }
+.header-menu .sub-menu ul{
+    width:250px;
+}
+.header-area .sub-menu ul li{
+    border-bottom: 1px solid #d6d6d6;
+    margin-bottom: 0 !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:last-Child{
+     border-bottom: none;
+}
+.header-area .sub-menu ul li a {
+    margin: 0 !important;
+    padding: 12px 7px !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li a::before {
+    left: 5px !important;
+    top: 21px !important;
+    transition: .5s;
+}
+.banner-area {
+    padding: 0 0px;
+}
+.header-area .sub-menu ul li:hover{
+   margin-left: 10px;
+}
+.about-area.style-two .about-thumb {
+    left: 56px;
+}
+.about-thumb {
+    top: 0px;
+}
+img.rotate {
+    left: -56px;
+    top: -51px;
+}
+.about-area.style-two.pt-125 {
+    padding-top: 30px;
+}
+.about-area.style-two.pb-100 {
+    padding-bottom: 155px;
+}
+.sticky-nav .header-menu ul li a:hover {
+    color: #279e64!important;
+}
+.header-src-btn {
+    display: none!important;
+}
+.owl-nav {
+    display: none;
+}
+.testi-img.test {
+    right: -59px;
+    top: 16px;
+}
+.dreamit-section-main-title h2 {
+    font-size: 37px;
+}
+.about-area.style-two .about-thumb {
+    left: 0;
+    position: relative;
+    top: 46px;
+}
+.service-area.style-three {
+    padding: 161px 13px;
+}
+.dreamit-section-main-title h2 {
+    font-size: 29px;
+}
+.social-address ul li {
+    margin-right: 41px;
+}
+.testimonial-thumb {
+    float: inherit;
+}
+.service-area {
+    padding: 85px 0px 74px 0px;
+}
+.about-area.style-two.pt-80 {
+    padding-top: 30px;
+}
+.about-area.style-two.pb-130 {
+    padding-bottom: 169px;
+}
+.service-area .dreamit-section-title {
+    margin-left: 0;
+}
+.service-area .dreamit-section-main-title h2 {
+    font-size: 31px;
+}
+ul#pills-tab {
+    margin-left: 0px;
+}
+.call-do-action-title h1 {
+    font-size: 29px;
+}
+.call-do-action-btn {
+    left: 5px;
+}
+.footer-social-address ul li {
+    margin-right: 0px;
+}
+.footer-bottom-content {
+    float: inherit;
+    text-align: center;
+}
+.footer-social-address {
+    text-align: center;
+}
+.row.margin-upper {
+    padding: 50px 0 0px;
+}
+.testimonial-thumb {
+    float: left;
+    margin-right: -140px;
+    position: relative;
+    top: 44px;
+}
+.testimonial-thumb img {
+    width: 45%;
+}
+.about-content {
+    position: relative;
+    top: 70px;
+}
+.about-button {
+    margin-bottom: 32px;
+}
+.banner-thumb {
+    display: none;
+}
+.header-menu ul li a:hover:before {
+    opacity: 0;
+}
+.header-icon {
+    display: none;
+}
+.header-src-btn {
+    display: none;
+}
+.header-contact {
+    display: none;
+}
+.header-src-btn {
+    display: none;
+}
+.testimonial-content-text p {
+    width: 100%;
+}
+.header-top-area {
+    display: none;
+}
+.brand-area.style-two {
+    padding: 83px 46px;
+}
+.breatcome-content-text span {
+    font-size: 14px;
+}
+.faq-area.style-three .faq-thumb img {
+    width: 100%;
+}
+.faq-area.style-three .faq-thumb.bounce-animate3 {
+    position: relative;
+    top: 53px;
+}
+.wrapper {
+    bottom: 46px;
+    z-index: 999;
+}
+.testimonial-area .dreamit-section-main-title h1 {
+    font-size:65px;
+    top: -8px;
+}
+.testimonial-area.pt-170 {
+    padding-top: 59px;
+}
+.blog-details-content {
+    padding: 37px 0px 0 0;
+}
+.blog-details-title h2 a {
+    font-size: 33px;
+}
+.blog-details-area .quote_btn.text_center {
+    top: 0;
+}
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+
+.header-logo{
+    display: none !important;
+}
+.logo-txt::before {
+  display: block !important;
+}
+.menu-toggle {
+  display: block !important;
+}
+.header-area {
+    background: #5FC2C7!important;
+    padding: 30px !important;
+}
+.menu-wrapper {
+    position: absolute;
+    top: 60px;
+    background: #fff !important;
+    left: -110%;
+    padding-bottom: 20px;
+    height: auto;
+    width: 166px;
+    transition: .5s;
+    z-index: 99;
+}
+.header-menu ul li span{
+    display: none;
+}
+.header-menu ul li .mobile-menu-icon {
+    display:block !important;
+}
+.active-nav {
+    left:0 !important;
+}
+.menu-toggle {
+    position: absolute;
+    right:0px;
+    top: 0px;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+.header-button {
+    display: none !important;
+}
+.header-menu ul li a {
+    color: #232323 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 18px 0 18px 25px;
+}
+.header-menu ul li{
+    border-bottom: 1px solid #ccc;
+}
+.header-menu ul li:last-Child{
+    border:none;
+}
+.header-menu ul {
+    text-align: left;
+    display: block !important;
+}
+.header-menu ul li {
+    display: block !important;
+    padding-bottom: 0 !important;
+}
+.mobile-menu-icon {
+    color: #6d6d6d;
+    right: 0;
+    float: right;
+    margin-right: 30px;
+    display: block !important;
+    transition: .3s;
+}
+.header-menu ul li:hover .mobile-menu-icon {
+    color: #03396b;
+}
+.header-menu .sub-menu {
+    position: absolute;
+    width: 155px !important;
+    left: 177px !important;
+    padding-bottom: 6px;
+}
+.header-menu ul li:hover .sub-menu {
+    top: 0 !important;
+    left: 177px !important;
+}
+.header-menu .sub-menu ul{
+    width:250px;
+}
+.header-area .sub-menu ul li{
+    border-bottom: 1px solid #d6d6d6;
+    margin-bottom: 0 !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:last-Child{
+     border-bottom: none;
+}
+.header-area .sub-menu ul li a {
+    margin: 0 !important;
+    padding: 18px 1px !important;
+}
+.header-area .sub-menu ul li a::before {
+    left: 5px !important;
+    top: 30px !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:hover{
+   margin-left: 10px;
+}
+.header-top-menu {
+    display: none!important;
+}
+.sticky-nav .header-menu ul li a:hover {
+    color: #279e64!important;
+}
+.blog-thumb {
+    float: inherit;
+    margin-bottom: 7px;
+}
+.blog-thumb img {
+    width: 100%;
+}
+.row.margin-topper {
+    padding: 66px 0 63px 30px;
+}
+.call-do-action-title h1 {
+    font-size: 19px;
+}
+.about-area.style-two .about-thumb {
+    left: 20px;
+    position: relative;
+    top: 93px;
+}
+.call-do-action-btn {
+    left: 0px;
+    top: -3px;
+}
+.about-area.pb-110 {
+    padding-bottom: 12px;
+}
+.breatcome-content-title h1 {
+    font-size: 58px;
+}
+.footer-social-address ul li {
+    margin-left: 0px;
+}
+.footer-bottom-content {
+    float: inherit;
+}
+.blog-meta {
+    margin-bottom: 23px;
+}
+.dreamit-section-main-title h2 {
+    color: #2A466B;
+    font-size: 18px;
+    margin: 12px 0 2px;
+}
+.blog-area .dreamit-section-sub-title h5 {
+    margin: 0 0 13px;
+}
+.dreamit-section-sub-title h5 {
+    font-size: 12px;
+}
+.owl-nav {
+    display: none;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    padding: 20px 100px;
+}
+.nav-pills .nav-link {
+    padding: 20px 89px;
+    margin-bottom: 14px;
+}
+.testimonial-content-text p {
+    font-size: 16px;
+    width: 100%;
+}
+.testimonial-area.pt-140 {
+    padding-top: 64px;
+}
+.service-area .dreamit-section-sub-title h5 {
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+.about-area .dreamit-section-title {
+    position: relative;
+    top: 50px;
+}
+img.rotate {
+    left: -32px;
+    top: -34px;
+}
+.testimonial-thumb {
+    float: inherit;
+}
+.about-img.shap3 {
+    right: -51%;
+}
+.about-img.shap4 {
+    right: -18%;
+}
+.about-img.shap10 {
+    top: 22%;
+    left: 67%;
+}
+.slider-content h1 {
+    font-size: 31px;
+}
+.slider-area {
+    padding-left: 8px;
+    padding-right: 12px;
+    height: 731px;
+}
+.social-address ul li {
+    margin-right: 29px;
+}
+.header-menu ul li a:hover:before {
+    opacity: 0;
+}
+.about-content {
+    margin-top: 36px;
+}
+.banner-thumb {
+    display: none;
+}
+.faq-thumb img {
+    width: 100%;
+}
+.ailata-about-thumb img {
+    width: 100%;
+}
+.banner-content h1 {
+    font-size: 43px;
+    margin-top: 150px;
+    text-align: center;
+}
+.banner-content p{
+    text-align: center;
+    width:100%;
+}
+.about-area{
+    padding-top:0px;
+}
+.dreamit-section-main-title h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.banner-button a{
+    width: 100%;
+}
+.about-title h2{
+    color:#232323;
+}
+.dreamit-section-title{
+    text-align: center;
+}
+.dreamit-section-title p{
+    width: 100%;
+}
+.about-button{
+    width: 100%;
+}
+.about-button a{
+    width: 100%;
+    text-align: center;
+}
+.about-content-text p{
+    width: 100%;
+    text-align: center;
+}
+.about-icon{
+    text-align: center;
+}
+.about-title h2{
+    text-align: center;
+    font-size: 35px;
+}
+.about-area .dreamit-section-content-text p{
+    text-align: center;
+}
+.banner-button {
+    width: 100%;
+    text-align: center;
+}
+.header-menu ul li {
+    width: 89%;
+}
+.header-area .sub-menu ul li {
+    width: 50%;
+}
+div#sticky-header {
+position: relative!important;
+}
+.header-src-btn {
+    display: none;
+}
+.header-icon {
+    display: none;
+}
+.faq-single-box {
+    padding-left: 18px;
+}
+.faq-content-text p {
+    width: 100%;
+    line-height: 1.3;
+}
+.header-contact {
+    display: none;
+}
+.header-src-btn {
+    display: none;
+}
+.header-top-area {
+    display: none;
+}
+.case-study-area {
+    padding: 0 0px;
+}
+.grid-title h2 a {
+    font-size: 19px;
+}
+.blog-details-title h2 a {
+    font-size: 24px;
+}
+.faq-area.style-three .faq-thumb.bounce-animate3 {
+    position: relative;
+    top: 53px;
+}
+.banner-area {
+    padding: 0 2px;
+}
+.banner-video {
+    display: none;
+}
+.service-area {
+    padding: 159px 6px 162px 7px;
+}
+.service-area .dreamit-section-title {
+    margin-left: 0;
+}
+.service-area .dreamit-section-main-title h2 {
+    font-size: 25px;
+}
+.about-area.pb-120 {
+    padding-bottom: 40px;
+}
+.feature-area.pt-80 {
+    padding-top: 33px;
+}
+.service-area {
+    padding: 67px 6px 61px 7px;
+}
+.testimonial-area.pt-170 {
+    padding-top: 119px;
+}
+.brand-area.pb-90 {
+    padding-bottom: 20px;
+}
+.brand-area.pt-50 {
+    padding-top: 0;
+}
+.ailata-footer-area {
+    padding: 60px 0 0px;
+}
+.about-area.style-two.pt-80 {
+    padding-top: 0px;
+}
+.ailata-footer-area .call-do-action-btn {
+    float: inherit;
+}
+.ailata-footer-area .row.upper {
+    padding-top: 50px;
+}
+.wrapper {
+    bottom: -90px;
+}
+.blog-details-content {
+    padding: 37px 5px 0 0;
+}
+.quote_btn {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.blog-details-social-address ul li {
+    margin-right: 4px;
+}
+.about-area.style-two.pb-130 {
+    padding-bottom: 169px;
+}
+.blog-area.pt-90 {
+    padding-top: 63px;
+}
+.about-area.style-two .dreamit-section-main-title h2 {
+    font-size: 34px;
+}
+.wrapper.active {
+    display: none;
+}
+
+
+
+}
+
+
